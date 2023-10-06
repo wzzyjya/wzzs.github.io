@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 <!-- 首页显示的内容 -->
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a graduate student from [School of Software](http://www.cst.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). I am currently researching the field of human-computer interaction
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I enjoy all research related to design without any restrictions.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
