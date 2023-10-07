@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "zizhen Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -112,7 +112,7 @@ author:
   twitter          : 
   vine             :
   weibo            :
-  xing             :
+  wechat           :
   youtube          :
   wikipedia        :
 
